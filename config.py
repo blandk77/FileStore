@@ -53,22 +53,36 @@ IS_VERIFY = os.environ.get("IS_VERIFY", "False")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
 
 
-HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @otakuflix_network\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/cosmic_freak>sᴜʙᴀʀᴜ</a></blockquote></b>"
+HELP_TXT = "<b>Greetings!</b>
 
+𝙸'𝚖 𝚊 𝚜𝚞𝚙𝚎𝚛𝚌𝚑𝚊𝚛𝚐𝚎𝚍 💾 𝚊𝚗𝚒𝚖𝚎 𝚏𝚒𝚕𝚎 𝚋𝚘𝚝, 🤖 𝚑𝚊𝚗𝚍𝚕𝚒𝚗𝚐 𝚞𝚙𝚕𝚘𝚊𝚍𝚜 𝚠𝚒𝚝𝚑 𝚎𝚊𝚜𝚎! ✨ 𝑰'𝒎 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 <a href='https://t.me/Animes_Guy'>𝗔𝗻𝗶𝗺𝗲 𝗚𝘂𝘆!!</a> 😉.𝙸 𝚘𝚗𝚕𝚢 𝚜𝚝𝚘𝚛𝚎𝚍 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍 𝚊𝚗𝚒𝚖𝚎 𝚏𝚒𝚕𝚎𝚜 😁 𝙸𝚗 𝚕𝚘𝚠 𝚖𝚋.\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ"
 
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/cosmic_freak>subaru</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anime_cruise_netflix>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/webseries_flix>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n◈ ᴀᴅᴜʟᴛ ᴍᴀɴʜᴡᴀ : <a href=https://t.me/pornhwa_flix>ᴘᴏʀɴʜᴡᴀs</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/cosmic_freak>subaru</a></blockquote></b>"
+ABOUT_TXT = "‣ Mʏ ᴜsᴇʀɴᴀᴍᴇ: <a href='https://t.me/ErenXJaegerbot'>𝙴𝚛𝚎𝚗 𝚈𝚎𝚊𝚐𝚎𝚛</a>
 
+‣ Cʜᴀɴɴᴇʟ I ᴡᴏʀᴋ ғᴏʀ: <a href='https://t.me/Animes<i>Guy'>𝙰𝚗𝚒𝚖𝚎𝚜 𝙶𝚞𝚢!!</a>
 
-START_MSG = os.environ.get("START_MESSAGE", "<b><blockquote>ʙᴀᴋᴋᴀᴀᴀ!! {first}\n\n ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote></b>")
+‣ Cʀᴇᴀᴛᴏʀ ᴏғ ᴍᴇ: <a href='https://t.me/The</i>TGguy'>𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚞𝚢!!</a>
+
+‣ Dᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/'>𝙼𝚘𝚗𝚐𝚘 𝙳𝙱</a>
+
+‣ Pʀᴏɢʀᴀᴍᴍᴇᴅ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/'>𝙿𝚢𝚝𝚑𝚘𝚗</a>
+
+‣ Hᴏsᴛᴇᴅ Oɴ: <a href='https://www.heroku.com/'>𝙷𝚎𝚛𝚘𝚔𝚞</a>"
+
+START_MSG = os.environ.get("START_MESSAGE", "<b>Greetings!</b>
+
+𝙸𝚖 𝚊 𝚜𝚞𝚙𝚎𝚛𝚌𝚑𝚊𝚛𝚐𝚎𝚍 💾 𝚊𝚗𝚒𝚖𝚎 𝚏𝚒𝚕𝚎 𝚋𝚘𝚝, 🤖 𝚑𝚊𝚗𝚍𝚕𝚒𝚗𝚐 𝚞𝚙𝚕𝚘𝚊𝚍𝚜 𝚠𝚒𝚝𝚑 𝚎𝚊𝚜𝚎! ✨ 𝑰'𝒎 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 <a href='https://t.me/Animes_Guy'>𝗔𝗻𝗶𝗺𝗲 𝗚𝘂𝘆!!</a> 😉.𝙸 𝚘𝚗𝚕𝚢 𝚜𝚝𝚘𝚛𝚎𝚍 𝚌𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍 𝚊𝚗𝚒𝚖𝚎 𝚏𝚒𝚕𝚎𝚜 😁 𝙸𝚗 𝚕𝚘𝚠 𝚖𝚋.")
 try:
     ADMINS=[6376328008]
-    for x in (os.environ.get("ADMINS", "5115691197 6273945163 6103092779 5231212075").split()):
+    for x in (os.environ.get("ADMINS", "1705634892").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {first}\n\n<b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hᴇʟʟᴏ!
+
+ Tᴏ ʜᴇʟᴘ ᴘʀᴇᴠᴇɴᴛ sᴘᴀᴍ ᴏɴ ᴏᴜʀ ʙᴏᴛs, ᴏɴʟʏ ᴜsᴇʀs ᴡʜᴏ ᴀʀᴇ ᴍᴇᴍʙᴇʀs ᴏғ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀʀᴇ ᴘᴇʀᴍɪᴛᴛᴇᴅ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ. Tᴏ ᴀᴄᴄᴇss ʏᴏᴜʀ ғɪʟᴇs, ᴘʟᴇᴀsᴇ ɪᴏɪɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟs ʟɪsᴛᴇᴅ ʙᴇʟᴏᴡ ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴀɢᴀɪɴ!")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
