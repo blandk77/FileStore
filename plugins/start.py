@@ -171,9 +171,7 @@ async def start_command(client: Client, message: Message):
             [
 
     [
-                    InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", callback_data = "about"),
-                    InlineKeyboardButton('🍁 sᴇʀɪᴇsғʟɪx', url='https://t.me/Team_Netflix/40')
-
+                    InlineKeyboardButton("⚡️ ᴀʙᴏᴜᴛ", callback_data = "about")
     ]
             ]
         )
@@ -313,7 +311,9 @@ Total Users: <code>{total}</code>
 Successful: <code>{successful}</code>
 Blocked Users: <code>{blocked}</code>
 Deleted Accounts: <code>{deleted}</code>
-Unsuccessful: <code>{unsuccessful}</code></b>"""
+Unsuccessful: <code>{unsuccessful}</code></b>
+
+A Bot By @The_TGguy"""
 
         return await pls_wait.edit(status)
 
