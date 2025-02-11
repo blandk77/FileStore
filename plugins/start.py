@@ -25,6 +25,9 @@ TUT_VID = f"{TUT_VID}"
 
 @Bot.on_message(filters.command('start') & filters.private & subscribed1 & subscribed2 & subscribed3 & subscribed4)
 async def start_command(client: Client, message: Message):
+    first_message = await message.reply('𝙿𝚕𝚎𝚊𝚜𝚎 𝚆𝚊𝚒𝚝....')
+    await asyncio.sleep(1)
+    await first_message.delete()
     id = message.from_user.id
     if not await present_user(id):
         try:
