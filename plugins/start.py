@@ -170,8 +170,7 @@ async def start_command(client: Client, message: Message):
             [
 
     [
-                    InlineKeyboardButton("𝗔𝗯𝗼𝘂𝘁", callback_data = "about"),
-                    InlineKeyboardButton('𝗖𝗵𝗮𝗻𝗻𝗲𝗹𝘀', url='https://t.me/nova_flix')
+                    InlineKeyboardButton("𝗔𝗯𝗼𝘂𝘁", callback_data = "about")
 
     ]
             ]
@@ -262,7 +261,7 @@ async def not_joined(client: Client, message: Message):
 
 #=====================================================================================##
 
-WAIT_MSG = "<b>Working....</b>"
+WAIT_MSG = "<b>Please Wait....</b>"
 
 REPLY_ERROR = "<code>Use this command as a reply to any telegram message without any spaces.</code>"
 
@@ -312,7 +311,9 @@ Total Users: <code>{total}</code>
 Successful: <code>{successful}</code>
 Blocked Users: <code>{blocked}</code>
 Deleted Accounts: <code>{deleted}</code>
-Unsuccessful: <code>{unsuccessful}</code></b>"""
+Unsuccessful: <code>{unsuccessful}</code></b>
+A bot by @The_TGguy
+"""
 
         return await pls_wait.edit(status)
 
